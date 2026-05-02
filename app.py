@@ -91,7 +91,7 @@ with tab_about:
         for bullet in resume["experience"]["bullets"]:
             st.write(f"* {bullet}")
 
-        st.subheader("Education & Technical Skills")
+        st.subheader("Education")
         for bullet in resume["education"]["bullets"]:
             st.write(f"* {bullet}")
 
