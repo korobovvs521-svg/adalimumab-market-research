@@ -78,7 +78,7 @@ tab_about, tab_adalimumab, tab_sources = st.tabs(["About Me", "Adalimumab", "Sou
 
 # --- TAB 1: ABOUT ME ---
 with tab_about:
-    st.markdown(f'<div class="main-slogan">{resume["slogan"]}</div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="main-slogan" style="font-size: 60px;">{resume["slogan"]}</div>', unsafe_allow_html=True)
 
     col1, col2 = st.columns([2, 1])
     with col1:
@@ -87,7 +87,7 @@ with tab_about:
         st.write(resume["intro"])
 
         st.subheader("Professional Experience")
-        st.write(resume["experience"]["title"])
+        # st.write(resume["experience"]["title"])
         for bullet in resume["experience"]["bullets"]:
             st.write(f"* {bullet}")
 
