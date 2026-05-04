@@ -6,7 +6,7 @@ def get_resume_content():
         "slogan": "From molecules to markets",
         "header": "Vladimir Korobov | Biopharma Professional | Life Sciences Data Analysis | Python & Market Dynamics",
         "intro": """
-        I am a biopharmaceutical development specialist with an active interest in market research 
+        I am a biopharma professional with an active interest in market research 
         and commercial analytics. I utilize Python, Gemini, and open-source APIs to programmatically 
         extract, process, and visualize commercial data, evaluating biosimilar landscapes and industry trends.
         """,
