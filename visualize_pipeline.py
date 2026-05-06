@@ -22,6 +22,5 @@ def create_pipeline_chart(df):
         color='Phases',
         title="Trial Volume by Sponsor & Phase"
     )
-
-    # Return the finished figure object, do not render it here
+    
     return fig
