@@ -6,9 +6,12 @@ def get_resume_content():
         "slogan": "From molecules to markets",
         "header": "**Vladimir Korobov**  \nBiopharma Professional | Life Sciences Data Analysis | Python & Bioinformatics",
         "intro": """
-        Biopharmaceutical professional with hands-on experience in drug development and QC. 
-        Currently using Python, SQL, and data visualization to analyze clinical trials and biological datasets, 
-        connecting physical lab science with computational bioinformatics.
+        Biotechnology/Biopharmaceuticals specialist, combining knowledge in biopharmaceutical development, 
+        bioinformatics, quality control, and manufacturing validation with advanced systems analysis skills. 
+        I have experience using Python, PostgreSQL, SQL, AI tools, and data visualization (Grafana) 
+        to analyze clinical trials and optimize workflows with laboratory, production, and scientific data. 
+        Also have product lifecycle management skills using Scrum and Kanban, striving to integrate physical 
+        laboratory research with modern IT solutions.
         """,
         "experience": {
             "title": "**Professional Experience**",
